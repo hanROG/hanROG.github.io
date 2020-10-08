@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hanrog.github.io</id>
     <title>han的博客</title>
-    <updated>2020-10-08T04:42:01.887Z</updated>
+    <updated>2020-10-08T05:29:41.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hanrog.github.io"/>
     <link rel="self" href="https://hanrog.github.io/atom.xml"/>
@@ -10,4 +10,13 @@
     <logo>https://hanrog.github.io/images/avatar.png</logo>
     <icon>https://hanrog.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, han的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[你好呀！]]></title>
+        <id>https://hanrog.github.io/post/ni-hao-ya/</id>
+        <link href="https://hanrog.github.io/post/ni-hao-ya/">
+        </link>
+        <updated>2020-10-08T05:13:41.000Z</updated>
+        <content type="html"><![CDATA[<p>我是LoveDrive的站长han，这里是我的博客，以后LoveDrive的独家消息就会放到这里了，如果你比较细心，应该发现了LoveDrive的左下角会有一个音乐模块，现在正在播放狂妄之人，为了让大家听不烦，现在我们征收歌曲名，如果你想提交的话请至https://www.wjx.cn/jq/93166146.aspx，以后我还会给大家安利实用的软件哦！</p>
+]]></content>
+    </entry>
 </feed>
